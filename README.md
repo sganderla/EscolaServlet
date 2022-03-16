@@ -1,6 +1,6 @@
 # EscolaServlet
 
-Aplicação desenvolvida em sala de aula. Universidade Uniamerica
+Aplicação desenvolvida em sala de aula. Universidade Uniamérica
 
 --------
 
