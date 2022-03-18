@@ -1,4 +1,4 @@
-# EscolaServlet
+# escola-servlet - (CRUD de Alunos utilizando Servler)
 
 Aplicação desenvolvida em sala de aula. Universidade Uniamérica
 
